@@ -3,8 +3,8 @@ languageCode = "it-it"
 theme = "hugo-theme-stack"
 paginate = 5
 title = "Ricette di Maria"
-disqusShortname = "hugo-theme-stack"
-DefaultContentLanguage = "en"
+disqusShortname = "lucaprezzo"
+DefaultContentLanguage = "it"
 
 [permalinks]
 post = "/p/:slug/"
