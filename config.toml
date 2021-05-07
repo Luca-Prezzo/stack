@@ -24,7 +24,7 @@ rssFullContent = true
 
   [params.sidebar]
   emoji = "🍥"
-  subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  subtitle = "Vuoi cucinare qualcosa? Sei nel posto giusto!"
 
     [params.sidebar.avatar]
     local = true
