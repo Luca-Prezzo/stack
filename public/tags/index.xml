@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ricette di Maria</title>
+    <link>https://ricettedimaria.netlify.app/tags/</link>
+    <description>Recent content in Tags on Ricette di Maria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 08 May 2021 12:22:01 +0200</lastBuildDate><atom:link href="https://ricettedimaria.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cheescake</title>
+      <link>https://ricettedimaria.netlify.app/tags/cheescake/</link>
+      <pubDate>Sat, 08 May 2021 12:22:01 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/tags/cheescake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dolce</title>
+      <link>https://ricettedimaria.netlify.app/tags/dolce/</link>
+      <pubDate>Sat, 08 May 2021 12:22:01 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/tags/dolce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pizza</title>
+      <link>https://ricettedimaria.netlify.app/tags/pizza/</link>
+      <pubDate>Fri, 07 May 2021 12:05:41 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/tags/pizza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salato</title>
+      <link>https://ricettedimaria.netlify.app/tags/salato/</link>
+      <pubDate>Fri, 07 May 2021 12:05:41 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/tags/salato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tradizione</title>
+      <link>https://ricettedimaria.netlify.app/tags/tradizione/</link>
+      <pubDate>Fri, 07 May 2021 12:05:41 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/tags/tradizione/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

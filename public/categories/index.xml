@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ricette di Maria</title>
+    <link>https://ricettedimaria.netlify.app/categories/</link>
+    <description>Recent content in Categories on Ricette di Maria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 08 May 2021 12:22:01 +0200</lastBuildDate><atom:link href="https://ricettedimaria.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dolci</title>
+      <link>https://ricettedimaria.netlify.app/categories/dolci/</link>
+      <pubDate>Sat, 08 May 2021 12:22:01 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/categories/dolci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ricotta</title>
+      <link>https://ricettedimaria.netlify.app/categories/ricotta/</link>
+      <pubDate>Sat, 08 May 2021 12:22:01 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/categories/ricotta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salato</title>
+      <link>https://ricettedimaria.netlify.app/categories/salato/</link>
+      <pubDate>Fri, 07 May 2021 12:05:41 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/categories/salato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tradizione</title>
+      <link>https://ricettedimaria.netlify.app/categories/tradizione/</link>
+      <pubDate>Fri, 07 May 2021 12:05:41 +0200</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/categories/tradizione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://ricettedimaria.netlify.app/categories/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricettedimaria.netlify.app/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
