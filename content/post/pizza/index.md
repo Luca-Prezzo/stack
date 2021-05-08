@@ -3,7 +3,7 @@ author: "Luca Prezzo"
 title: "Pizza fatta in casa"
 description: "La pizza, come non l'avete mai vista"
 date: 2021-05-07T12:05:41+02:00
-draft: true
+draft: false
 image: "pizzamani.jpg"
 tags:
  - Salato

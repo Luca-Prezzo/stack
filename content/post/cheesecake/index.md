@@ -2,7 +2,7 @@
 title: "Cheesecake al cioccolato"
 description: "Cheesecake al cioccolato fatta in casa"
 date: 2021-05-08T12:22:01+02:00
-draft: true
+draft: false
 image: "cheescake.jpg"
 tags:
  - dolce
