@@ -28,7 +28,7 @@ rssFullContent = true
 
     [params.sidebar.avatar]
     local = true
-    src = "../../../img/avatar1.png"
+    src = "../../img/avatar1.png"
 
   [params.article]
   math = false
