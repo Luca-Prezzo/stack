@@ -3,7 +3,7 @@ languageCode = "it-it"
 theme = "hugo-theme-stack"
 paginate = 5
 title = "Ricette di Maria"
-disqusShortname = "lucaprezzo"
+disqusShortname = "https-objective-jang-e2ddac-netlify-app"
 DefaultContentLanguage = "it"
 
 [permalinks]
