@@ -4,6 +4,7 @@ theme = "hugo-theme-stack"
 paginate = 5
 title = "Ricette di Maria"
 disqusShortname = "ricettedimaria"
+googleAnalytics = "197021305"
 DefaultContentLanguage = "it"
 
 [permalinks]
