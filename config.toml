@@ -29,7 +29,7 @@ rssFullContent = true
 
     [params.sidebar.avatar]
     local = true
-    src = "logo.png"
+    src = "https://github.com/Luca-Prezzo/stack/blob/master/logo.png"
 
   [params.article]
   math = false
