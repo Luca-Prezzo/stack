@@ -28,8 +28,8 @@ rssFullContent = true
   subtitle = "Vuoi cucinare qualcosa? Sei nel posto giusto!"
 
     [params.sidebar.avatar]
-    local = true
-    src = "https://github.com/Luca-Prezzo/stack/blob/master/logo.png"
+    local = false
+    src = "https://github.com/Luca-Prezzo/stack/blob/master/logo.png?raw=true"
 
   [params.article]
   math = false
